@@ -1,1 +1,2 @@
 # Remote-File-Integrity-Monitoring
+ This project contributes to cybersecurity integrity efforts by enabling file integrity monitoring and remote execution capabilities. By proactively monitoring file integrity and facilitating remote management, the script enhances security posture, supports incident detection and response, and assists organizations in meeting compliance requirements in the ever-evolving landscape of cybersecurity threats.
